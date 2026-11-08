@@ -1,4 +1,5 @@
 {
   "baseFontSizeAction": true,
-  "translucency": false
+  "translucency": false,
+  "cssTheme": "Atom"
 }
