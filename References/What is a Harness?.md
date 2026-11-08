@@ -1,10 +1,10 @@
 ---
-title: "What is a Harness?"
-source: "https://earendil.com/posts/what-is-a-harness/"
+title: What is a Harness?
+source: https://earendil.com/posts/what-is-a-harness/
 author:
 published: 2026-08-20
-type:
-tags:
+type: blog
+references: "[[Harness]]"
 ---
 **Harness** – definition by the Cambridge Dictionary
 
