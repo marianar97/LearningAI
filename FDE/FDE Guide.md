@@ -16,7 +16,7 @@ FDEs play multiple hats:
 Companies might split the FDE role to only serve some of the hats. It's important that the FDE understand with hats are they wearing and what are the personas they are working with
 
 **Values**
-- **Ownership**: ownership of the product you are delivering to a **specific customer** x
+- **Ownership**: ownership of the product you are delivering to a **specific customer** 
 
 **Skills:**
 - [[executive-presence | Executive presence]]: learn how to present to C-level executives. Talk with clarity and intent
