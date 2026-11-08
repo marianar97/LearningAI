@@ -1,0 +1,4 @@
+- harness
+- observability (evals, traces, environment)
+- post training
+- self-improvement

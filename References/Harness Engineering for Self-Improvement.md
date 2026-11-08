@@ -7,7 +7,7 @@ published: 2026-07-03
 skills:
 roles:
 concepts:
-  - harness 
+  - "[[Harness]]"
   - self-improvement
   - agents
 type: blog
