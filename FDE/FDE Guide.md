@@ -16,14 +16,11 @@ FDEs play multiple hats:
 Companies might split the FDE role to only serve some of the hats. It's important that the FDE understand with hats are they wearing and what are the personas they are working with
 
 **Values**
-- **Ownership**: ownership of the product you are delivering to a **specific customer**
+- **Ownership**: ownership of the product you are delivering to a **specific customer** x
 
-Tips:
-- [[executive-presence | Executive presence]] learn how to present to C-level executives
-- [[product-sense| Pr]]
-
-
-
-
+**Skills:**
+- [[executive-presence | Executive presence]]: learn how to present to C-level executives
+- [[product-sense| Product sense]]:  tradeoff and prioritization. Practice writing down your daily decisions, in a way that is clear, defensible and that other people would understand
+- [[software-engineering| Software Engineer]]: design a complete product. Include 
 
 
