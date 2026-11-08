@@ -13,9 +13,10 @@ The typical FDE interview is composed of:
 5. [[system-design]]: a high level system design question **scoped** for the deliverable you defined in the step before. 
 
 
-| Step                      | Description                                                                                                                                                                                | Concepts | Skills |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------ |
-| **Problem understanding** | Given a vague prompt and you must identify and ask relevant questions to identify:<br>[[Stakeholders]] <br>Resources: resources you might use to solve the pain points of the stakeholders |          |        |
+| Step                       | Description                                                                                                                                                                                                                                                                                       | Competency            | Skills |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------ |
+| **Problem understanding**  | Given a vague prompt and you must identify and ask relevant questions to identify:<br>- [[Stakeholders]] <br>- **Resources:** resources you might use to solve the pain points of the stakeholders<br>- **Timeline**: how much time you have to build the product given the **limited resources** | [[product-sense]]<br> |        |
+| [[stakeholders]] deep dive |                                                                                                                                                                                                                                                                                                   |                       |        |
 
 
 
