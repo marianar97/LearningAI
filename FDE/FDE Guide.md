@@ -13,9 +13,15 @@ FDEs play multiple hats:
 - **Product Manager:** product sense. What to build (and what not to build) given limited resources (mainly eng resources and time)
 - **Software Engineer:**  building and monitoring the product
 
+Companies might split the FDE role to only serve some of the hats. It's important that the FDE understand with hats are they wearing and what are the personas they are working with
+
 **Values**
-- **Ownership**: ownership of the product you are delivering to a specific customer
-- 
+- **Ownership**: ownership of the product you are delivering to a **specific customer**
+
+Tips:
+- [[executive-presence | Executive presence]] learn how to present to C-level executives
+- [[product-sense| Pr]]
+
 
 
 
