@@ -11,10 +11,16 @@ The discovery call should be three types of people:
 - **Technical**: knows which systems are involved (API, DB) and how to access them. They inform on the feasibility of the problem
 
 #### Discovery session
+1. **Problem understanding** what is the failure in the current process: what triggers the failure, who gets involved, what work gets stuck, and how the team recovers. Pay special attention to: 
+	Data systems involved
+	- time (latency) and frequency (how often)
+	- ownership gap (who own each step in the system)
+2. **Confirm and **
 
-| Step    | Objective                                                                                                                                             | Listen for                    |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| Opening | Understand what is the failure in the current process: what triggers the failure, who gets involved, what work gets stuck, and how the team recovers. | - Data systems involved<br>-  |
+| Step    | Objective                                                                                                                                             | Listen for                                                                                                                 |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Opening | Understand what is the failure in the current process: what triggers the failure, who gets involved, what work gets stuck, and how the team recovers. | - Data systems involved<br>- time (latency) and frequency (how often)<br>- ownership gap (who own each step in the system) |
+|         |                                                                                                                                                       |                                                                                                                            |
 
 
 #### Template
