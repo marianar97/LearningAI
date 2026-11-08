@@ -8,4 +8,18 @@ Customers normally describe symptoms, a solution they want (e.g: a chatbot ui), 
 The discovery call should be three types of people:
 - **Executive sponsor**: control the budget, and anchors the conversation to what the organization priorities, what they will fund and act on.
 - **Ops person or domain expert:** performs the day to day work. They describe the system they work on
-- **Technical**: knows the data 
+- **Technical**: knows which systems are involved (API, DB) and how to access them. They inform on the feasibility of the problem
+
+#### Discovery session
+
+| Step    | Objective                                                                                                                                             | Listen for                    |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| Opening | Understand what is the failure in the current process: what triggers the failure, who gets involved, what work gets stuck, and how the team recovers. | - Data systems involved<br>-  |
+
+
+#### Template
+
+| Pain Point | Current solution | Data involved | Success Metric |
+| ---------- | ---------------- | ------------- | -------------- |
+|            |                  |               |                |
+|            |                  |               |                |
