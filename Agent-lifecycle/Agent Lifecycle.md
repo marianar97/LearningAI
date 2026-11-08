@@ -1,4 +1,1 @@
-- harness
-- observability (evals, traces, environment)
-- post training
-- self-improvement
+Build -> test -> evaluate -> monitor 
