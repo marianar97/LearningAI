@@ -9,4 +9,6 @@ The typical FDE interview is composed of:
 	- Timeline: how much time you have to build the product
 2. Deeply understanding the [[stakeholders]]
 3. Brainstorming solution(s) to fix the pain points of the [[stakeholders]]
-4. Scoping an first deliverable: from a technical side, what can you build? Define what is must have and a nice to have given the limited time frame of this first deliverable. Next iterations are about building on top of the previous iteration
+4. Scoping an first deliverable: from a technical side, what can you build? Define what are must have and nice to have given the limited time frame of this first deliverable. Next iterations are about building on top of the previous iteration
+
+## 
