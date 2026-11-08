@@ -37,4 +37,4 @@ The discovery call should be three types of people:
 - Offer a solution in a discovery call
 - Focus only on the senior roles opinion. If seniors roles dominate the conversation, redirect it to people who do the day to day work
 - Scope creep: close the session with was identified, not an invitation for additions.
-- skipping the baseline: scoping a solution without knowing the current process costs in time, error, rate make it impossible to build a business case
+- skipping the baseline: scoping a solution without knowing the current process costs in time, error, rate make it impossible to build a business **case**
