@@ -2,7 +2,6 @@ Companies might split FDE roles differently and as such the FDE interviews chang
 
 The typical FDE interview is composed of:
 
-
 ### Decomposition question (5 mins): 
 1. **Problem understanding**: You're given a vague prompt and you must identify and ask relevant questions to identify
 	- [[Stakeholders]] 
