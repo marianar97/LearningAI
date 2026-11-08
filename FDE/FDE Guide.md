@@ -19,8 +19,9 @@ Companies might split the FDE role to only serve some of the hats. It's importan
 - **Ownership**: ownership of the product you are delivering to a **specific customer** x
 
 **Skills:**
-- [[executive-presence | Executive presence]]: learn how to present to C-level executives
-- [[product-sense| Product sense]]:  tradeoff and prioritization. Practice writing down your daily decisions, in a way that is clear, defensible and that other people would understand
-- [[software-engineering| Software Engineer]]: design a complete product. Include 
+- [[executive-presence | Executive presence]]: learn how to present to C-level executives. Talk with clarity and intent
+- [[product-sense| Product sense]]:  tradeoff and prioritization. Practice writing down your daily decisions, in a way that is clear, defensible and that other people would understand. 
+- [[software-engineering| Software Engineer]]: design a complete product. Include test cases and edge cases definitions
+
 
 
