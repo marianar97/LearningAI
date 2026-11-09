@@ -18,7 +18,7 @@ The discovery call should be three types of people:
 2. **Confirm and Verify**: 
 	- Summarize what you understand. Including:
 		- core problem 
-		- systems involved: e
+		- systems involved: 
 		- success criteria
 	- Checklist: Before leaving the session
 	    - [ ] Does the data required for the system exist, and is it accessible within the project timeline?
