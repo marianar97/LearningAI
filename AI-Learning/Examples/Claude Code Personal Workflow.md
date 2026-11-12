@@ -13,5 +13,5 @@ Modify automode in the json settings by using natural language in:
 - settings -> environments
 - settings -> allow
 - settings -> hard_deny
-- 
+
 
