@@ -1,6 +1,6 @@
 
-| Name        | Notes | Reference |
-| ----------- | ----- | --------- |
-| Claude Code |       |           |
-| Pi          |       |           |
-| DeepAgents  |       |           |
+| Name        | Notes | References |
+| ----------- | ----- | ---------- |
+| Claude Code |       |            |
+| Pi          |       |            |
+| DeepAgents  |       |            |
